@@ -1,2 +1,2 @@
-# Achievements
-Confirmation of achievements / Подтверждение достижений
+# Certificates
+Certificate Information / Информация о сертификатах
